@@ -1,0 +1,1 @@
+draw_text(display_get_width()/2, display_get_height()/2, "Your text here")
