@@ -1,12 +1,6 @@
-if(left) { // if left is selected
-	// turn off flag for left selected
-	left = false
-	// return sprite to neutral
-	sprite_index = spriteN
-} else if(right) { // if right is selected
-} else { // if neutral state
-	// turn on flag for right selected
+// if right isn't selected, make right selected
+if(!right) {
 	right = true
-	// change sprite to right selected
+	left = false
 	sprite_index = spriteR
 }

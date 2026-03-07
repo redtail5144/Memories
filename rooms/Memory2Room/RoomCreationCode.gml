@@ -1,2 +1,2 @@
-roomInit(secondMemory, "How about this?", false, c_red, Font1,
-		Monitor, MonitorNo, MonitorYes, StartRoom, StartRoom)
+roomInit(secondMemory, "What About This?", Monitor, MonitorNo,
+		MonitorYes, StartRoom, StartRoom, false, c_blue, Font1)
