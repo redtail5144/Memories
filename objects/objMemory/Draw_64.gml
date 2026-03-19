@@ -10,5 +10,5 @@ if(count < string_length(question)) {
 	if(count % 6) audio_play_sound(keyClick, 1, false)
 	
 	// Controls the speed of the text
-	count += 0.5
+	count += 0.3
 }
