@@ -3,7 +3,7 @@
 global.remember = 0
 global.forget = 0
 
-var _message = "This is an interactive story game. It explores my photography through a variety of images, referring to them as memories.\n\nAs the viewer, you get to choose the story you engage with by chooisng certain paths.\n\nAll stories are inspired by true events.\n\nPlease Enjoy :^)"
+var _message = "This is an interactive story game. It explores my photography through a variety of images, referring to them as memories.\n\nAs the viewer, you get to choose the story you engage with by chooisng certain paths.\n\nAll stories are inspired by true events.\n\nTo move to the next slide, press the far right red button. This will be your interact button. \n\nTo choose your path, move the joystick left or right.\n\nIf you need to escape, press the top left button on the machine. \n\nAll other buttons will not work, so feel free to hit them as if they are fidgets.\n\nPlease Enjoy :^)"
 
 instance_create_layer(0, 0, "Instances", objMemory, {
 	//sprite_index: NULL, // Set the memory image
