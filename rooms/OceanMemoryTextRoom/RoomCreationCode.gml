@@ -1,3 +1,3 @@
-_text = "I see the ocean. The wind nips my ears, as I take a deep breath.\n\nI remember this harbor... I used to come here all the time as a kid. Living on Vancouver Island, this ferry was our only escape to the mainland.\n\nVactions often meant leaving the island, but nowadays it's the opposite. My holidays consist of me returning rather than fleeing\n\nIt's been a long time since I've set foot here."
+_text = "I see the ocean. The wind nips my ears, as I take a deep breath.\n\nI remember this harbor... I used to come here all the time as a kid. Living on Vancouver Island, this ferry was our only escape to the mainland.\n\nVacations often meant leaving the island, but nowadays it's the opposite. My holidays consist of me returning rather than fleeing\n\nIt's been a long time since I've set foot here."
 
-roomInit(blackSprite, _text, Monitor, MonitorNo, MonitorYes, FerryMemoryRoom, FerryMemoryRoom, false)
+roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, FerryMemoryRoom, FerryMemoryRoom, false)

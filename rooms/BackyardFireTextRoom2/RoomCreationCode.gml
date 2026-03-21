@@ -1,6 +1,6 @@
-_text = "No matter what we were doing, we always meet up or returned to this house. This was our place.\n\nAt least it was. We moved away in 2019. The photos I took from my vehicle are of a time when I no longer lived there. Time just hasn't felt the same since then.\n\nI don’t think I want to continue this thought anymore.\n\nMy memory of this place ends here."
+_text = "No matter what we were doing, we always meet up or returned to this house. This was our place.\n\nAt least it was. We moved away in 2019. The photos I took from my vehicle are of a time when I no longer lived there. Time just hasn't felt the same since then.\n\nI don't think I want to continue this thought anymore.\n\nMy memory of this place ends here."
 
-roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, MemoryTunnel4, MemoryTunnel4, false)
+roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, MemoryTunnelRoom4, MemoryTunnelRoom4, false)
 //Monitor, MonitorNo, MonitorYes,
 //MonitorNext, MonitorNext, MonitorNext,
 

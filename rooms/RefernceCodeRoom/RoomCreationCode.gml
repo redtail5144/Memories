@@ -1,6 +1,6 @@
-_text = " "
+_text = ""
 
-roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, BasketballCourtMemory, MistyWoodsMemory, false)
+roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, ParentsSittingMemory, GroupPhotoMmeory, false)
 //Monitor, MonitorNo, MonitorYes,
 //MonitorNext, MonitorNext, MonitorNext,
 

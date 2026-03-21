@@ -1,4 +1,4 @@
-_text = "Water crashes down before me. This still isn't the memory I’m looking for, but I can tell I’m getting closer.\n\nI take a moment to enjoy the scenery before closing my eyes once again."
+_text = "Water crashes down before me. This still isnt the memory Im looking for, but I can tell Im getting closer.\n\nI take a moment to enjoy the scenery before closing my eyes once again."
 
 roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, FriendsAtPicnicTableMemory, FriendsAtPicnicTableMemory, false)
 //Memory, memory no, memory yes

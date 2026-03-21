@@ -1,4 +1,4 @@
-_text = "I see a field stretch out before me. It’s cold outside, but I am shielded from in inside my vehicle.\n\nI used to live here. I spent warm summer days laying in that grassy field. This was the park right outside my house.\n\nI'll never forget the time I bought a metal umbrella out into a lighting storm here. It was the summer before we learned about electricity in Science class. I can confirm this was my dumbest moment in life, but it felt so good in the moment."
+_text = "I see a field stretch out before me. It's cold outside, but I am shielded from the cold inside my vehicle.\n\nI used to live here. I spent warm summer days laying in that grassy field. This was the park right outside my house.\n\nI'll never forget the time I bought a metal umbrella out into a lighting storm here. It was the summer before we learned about electricity in Science class. I can confirm this was my dumbest moment in life, but being in that storm felt so exciting."
 
 roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, FieldTextRoom2, FieldTextRoom2, false)
 //Monitor, MonitorNo, MonitorYes,
