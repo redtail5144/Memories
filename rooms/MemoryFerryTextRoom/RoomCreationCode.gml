@@ -15,7 +15,7 @@ instance_create_layer(0, 0, "Instances", objMemory, {
 	
 	
 instance_create_layer(0, 0, "Instances", objGoNextRoom, {
-	nRoom: MemoryRoom1
+	nRoom: MemoryTextRoom2
 })
 
 //DONT FORGET TO ADD THIS

@@ -1,3 +1,6 @@
+if(roomForget == roomRemember) room_goto(roomForget)
+//fail safe, if both rooms equal same outcome, then this simplifies it
+
 if(left) { // if left is selected
 	// increment remember counter
 	global.remember++
