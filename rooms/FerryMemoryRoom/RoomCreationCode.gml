@@ -1,3 +1,3 @@
 _text = ""
 
-roomInit(Memory9, _text, Monitor, MonitorNo, MonitorYes, FerryMemoryRoom, FerryMemoryRoom, false)
+roomInit(Memory9, _text, MonitorNext, MonitorNext, MonitorNext, MemoryFerryTextRoom, MemoryFerryTextRoom, false)

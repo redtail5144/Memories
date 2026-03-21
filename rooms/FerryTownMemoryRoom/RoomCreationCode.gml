@@ -3,4 +3,5 @@ _text = ""
 
 //change memory, ignore monitors, left side room direction, right side room direction
 //if its a memory next and not a choice, put all monitors to memorynext not memory left/right
-roomInit(Memory7, _text, Monitor, MonitorNo, MonitorYes, OceanMemoryTextRoom, OceanMemoryTextRoom, false)
+roomInit(Memory12, _text, MonitorNext, MonitorNext, MonitorNext, FerryTownTextRoom, FerryTownTextRoom, false)
+

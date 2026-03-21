@@ -13,8 +13,8 @@
   ],
   "name":"MemoryTunnelRoom2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"MemoryTunnel",
+    "path":"folders/MemoryTunnel.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
