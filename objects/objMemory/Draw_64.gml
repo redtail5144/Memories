@@ -3,7 +3,7 @@ if(init) {
 	var _text = string_copy(textWrapped, 1, count)
 
 	// draw the text
-	draw_text(20, 50, _text)
+	draw_text(300, 300, _text)
 	
 	// if there is still text to draw iterate
 	if(count < string_length(textWrapped)) {

@@ -12,3 +12,7 @@ instance_create_layer(0, 0, "Instances", objMemory, {
 	memoryFont: Font1 // Font of question text
 })
 	
+	
+instance_create_layer(0, 0, "Instances", objGoNextRoom, {
+	nRoom: MemoryTunnelRoom1
+})

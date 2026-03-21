@@ -10,7 +10,7 @@
 /// @param {bool} split - Flag for if it should splinter for next room
 /// @param {color} textC - Colour of memory text (default: red)
 /// @param {font} textF - Font of text (default: Font1)
-function roomInit(memSprite, memQues, monSpriteN, monSpriteR, monSpriteL, rRem, rFor, split, textC = c_red, textF = Font1){
+function roomInit(memSprite, memQues, monSpriteN, monSpriteR, monSpriteL, rRem, rFor, split, textC = c_white, textF = Font1){
 	// Create the memory object
 	instance_create_layer(0, 0, "Instances", objMemory, {
 		sprite_index: memSprite, // Set the memory image
@@ -31,7 +31,7 @@ function roomInit(memSprite, memQues, monSpriteN, monSpriteR, monSpriteL, rRem, 
 		})	
 }
 
-function stringWrap(_string, _maxWidth = display_get_gui_width() - 50) {
+function stringWrap(_string, _maxWidth = 1600) {
 		var _length = string_length(_string)
 		var _lastSpace = 1
 		var _count = 0
