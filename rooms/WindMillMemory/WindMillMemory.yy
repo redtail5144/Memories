@@ -13,8 +13,8 @@
   ],
   "name":"WindMillMemory",
   "parent":{
-    "name":"Memories",
-    "path":"Memories.yyp",
+    "name":"5_Right_1",
+    "path":"folders/5_Right_1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
