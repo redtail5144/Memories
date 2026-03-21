@@ -1,7 +1,9 @@
 _text = " "
 
-roomInit(Memory23, _text, MonitorNext, MonitorNext, MonitorNext, BasketballCourtTextRoom, BasketballCourtTextRoom, false)
-//Memory, memory no, memory yes
+roomInit(Memory62, _text, MonitorNext, MonitorNext, MonitorNext, BasementLeftTextRoom, BasementLeftTextRoom, false)
+//Monitor, MonitorNo, MonitorYes,
+//MonitorNext, MonitorNext, MonitorNext,
+
 //USE THIS CODE FOR EVERYTHING
 //asset_1 = monitor overla
 
