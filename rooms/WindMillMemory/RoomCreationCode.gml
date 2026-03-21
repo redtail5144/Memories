@@ -1,6 +1,6 @@
 _text = ""
 //this is only for left or right choice
-roomInit(Memory9, _text, MonitorNext, MonitorNext, MonitorNext, MemoryFerryTextRoom, MemoryFerryTextRoom, false)
+roomInit(Memory20, _text, MonitorNext, MonitorNext, MonitorNext, WindMillTextRoom, WindMillTextRoom, false)
 
 //USE THIS CODE FOR EVERYTHING
 //asset_1 = monitor overla
