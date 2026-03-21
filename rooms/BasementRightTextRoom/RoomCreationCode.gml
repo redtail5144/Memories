@@ -1,6 +1,6 @@
-_text = " "
+_text = "I miss this place the most. I think it might have to do with the fact that we lived here the longest. The memories I made here feel crucial to the person I am today.\n\nI find it a little silly but one day when I design my own house,I want the basement to look like this place. I have thought about buying the property outright down the road, but another company already did that and fully renovated the house. If I were to ever return to this location, it would look nothing like what I remember.\n\nWhoever lives here now will never understand the history of his house. They won’t know that some 10 year old girl learned to draw in that basement. That she learned how to build relationships, host the coolest parties and cry over the saddest movies. She learned who she was in that place, and I'll never forget the importance of this home.\n\nMy memory of this place ends here."
 
-roomInit(blackSprite, _text, Monitor, MonitorNo, MonitorYes, BasketballCourtMemory, MistyWoodsMemory, false)
+roomInit(blackSprite, _text, MonitorNext, MonitorNext, MonitorNext, MemoryTunnelRoom4, MemoryTunnelRoom4, false)
 //Monitor, MonitorNo, MonitorYes,
 //MonitorNext, MonitorNext, MonitorNext,
 

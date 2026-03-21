@@ -1,6 +1,6 @@
 _text = " "
 
-roomInit(memory53, _text, MonitorNext, MonitorNext, MonitorNext, JeepTextRoom, JeepTextRoom, false)
+roomInit(Memory53, _text, MonitorNext, MonitorNext, MonitorNext, JeepTextRoom, JeepTextRoom, false)
 //Monitor, MonitorNo, MonitorYes,
 //MonitorNext, MonitorNext, MonitorNext,
 
