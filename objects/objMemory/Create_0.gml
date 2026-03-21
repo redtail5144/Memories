@@ -7,3 +7,7 @@ draw_set_colour(memoryColour)
 
 _width = display_get_gui_width()
 _height = display_get_gui_height()
+
+init = false
+
+textWrapped = ""
