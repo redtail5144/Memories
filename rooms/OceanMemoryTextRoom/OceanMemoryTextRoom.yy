@@ -14,8 +14,8 @@
   ],
   "name":"OceanMemoryTextRoom",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"2_Left1",
+    "path":"folders/2_Left1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -10,8 +10,11 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"1_Begin","folderPath":"folders/1_Begin.yy","name":"1_Begin","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"2_Left1","folderPath":"folders/2_Left1.yy","name":"2_Left1","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"3_Left1_Left","folderPath":"folders/3_Left1_Left.yy","name":"3_Left1_Left","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"MemoryTunnel","folderPath":"folders/MemoryTunnel.yy","name":"MemoryTunnel","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"4_Left1_Right","folderPath":"folders/4_Left1_Right.yy","name":"4_Left1_Right","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Memories","folderPath":"folders/Memories.yy","name":"Memories","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},

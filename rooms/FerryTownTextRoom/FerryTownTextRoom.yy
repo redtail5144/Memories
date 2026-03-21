@@ -13,8 +13,8 @@
   ],
   "name":"FerryTownTextRoom",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"3_Left1_Left",
+    "path":"folders/3_Left1_Left.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

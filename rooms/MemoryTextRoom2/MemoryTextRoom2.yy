@@ -15,8 +15,8 @@
   ],
   "name":"MemoryTextRoom2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"1_Begin",
+    "path":"folders/1_Begin.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
