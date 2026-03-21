@@ -1,9 +1,8 @@
 _text = " "
 
-roomInit(blackSprite, _text, Monitor, MonitorNo, MonitorYes, BasketballCourtMemory, MistyWoodsMemory, false)
+roomInit(Memory36, _text, MonitorNext, MonitorNext, MonitorNext, WaterfallTextRoom, WaterfallTextRoom, false)
 //Monitor, MonitorNo, MonitorYes,
 //MonitorNext, MonitorNext, MonitorNext,
-
 //USE THIS CODE FOR EVERYTHING
 //asset_1 = monitor overla
 

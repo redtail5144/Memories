@@ -1,9 +1,7 @@
 _text = " "
 
 roomInit(blackSprite, _text, Monitor, MonitorNo, MonitorYes, BasketballCourtMemory, MistyWoodsMemory, false)
-//Monitor, MonitorNo, MonitorYes,
-//MonitorNext, MonitorNext, MonitorNext,
-
+//Memory, memory no, memory yes
 //USE THIS CODE FOR EVERYTHING
 //asset_1 = monitor overla
 
