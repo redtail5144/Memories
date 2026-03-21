@@ -30,3 +30,27 @@ function roomInit(memSprite, memQues, monSpriteN, monSpriteR, monSpriteL, rRem, 
 		roomForget: rFor // Set room to goto if forget
 		})	
 }
+
+function stringWrap(_string, _maxWidth = display_get_gui_width() - 50) {
+		var _length = string_length(_string)
+		var _lastSpace = 1
+		var _count = 0
+		var _curString = ""
+		
+		show_debug_message("stringWrapped")
+		
+		repeat(_length) {
+			_curString = string_copy(_string, 1, _count)
+			
+			if(string_char_at(_string, _count) == " ") _lastSpace = _count
+			
+			if(string_width(_curString) > _maxWidth) {
+				_string = string_delete(_string, _lastSpace, 1)
+				_string = string_insert("\n", _string, _lastSpace)
+			}
+			
+			_count++
+		}
+		
+		return _string
+}
